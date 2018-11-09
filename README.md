@@ -1,3 +1,5 @@
+![alt text](https://github.com/harisbaig100/React-Weather-App/blob/master/Screen%20Shot%202018-11-09%20at%205.51.05%20PM.png)
+
 # React-Weather-App
 
 To get started first get your api key, you can get one by going to this link and complete process "https://openweathermap.org/appid#use", Just change the API-KEY in the "src/actions.index.js" and you have the weather updates. 
