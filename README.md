@@ -1,6 +1,6 @@
 # React-Weather-App
 
-Interested in learning React and redux concepts
+To get started first get your api key, you can get one by going to this link and complete process "https://openweathermap.org/appid#use", Just change the API-KEY in the "src/actions.index.js" and you have the weather updates. 
 
 ### Getting Started
 
